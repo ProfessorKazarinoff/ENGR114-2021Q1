@@ -256,3 +256,7 @@ dmypy.json
 .idea/
 venv/
 grading/
+.pdf
+.tex
+.synctex.gz
+.gz
